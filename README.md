@@ -1,2 +1,2 @@
-# celo-nft-marketplace
-celo-nft-marketplace
+# Celo NFT Marketplace Application
+
