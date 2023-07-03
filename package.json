@@ -1,0 +1,32 @@
+{
+  "name": "celo-nft-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i3focus/celo-nft-marketplace.git"
+  },
+  "keywords": [
+    "Celo",
+    "NFT",
+    "web3"
+  ],
+  "author": "jether@i3focus.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i3focus/celo-nft-marketplace/issues"
+  },
+  "homepage": "https://github.com/i3focus/celo-nft-marketplace#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.16.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "dotenv": "^16.3.1"
+  }
+}
